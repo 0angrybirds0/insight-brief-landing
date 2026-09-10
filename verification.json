@@ -1,0 +1,12 @@
+{
+  "layouts": [
+    {"name":"small-portrait","width":600,"height":960,"overflow":false},
+    {"name":"tablet-portrait","width":800,"height":1280,"overflow":false},
+    {"name":"tablet-landscape","width":1280,"height":800,"overflow":false},
+    {"name":"small-landscape","width":1024,"height":600,"overflow":false},
+    {"name":"mobile","width":360,"height":800,"overflow":false},
+    {"name":"desktop","width":1440,"height":900,"overflow":false}
+  ],
+  "form": "passed",
+  "privacy": "passed"
+}
